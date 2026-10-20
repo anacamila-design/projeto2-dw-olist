@@ -1,0 +1,10 @@
+# Dados (CSVs do Olist)
+data/
+
+# Credenciais
+.env
+
+# Ambiente virtual e caches do Python
+.venv/
+__pycache__/
+*.pyc
